@@ -1,0 +1,22 @@
+{
+  "name": "glassmorph",
+  "version": "1.0.0",
+  "description": "glassmorphism",
+  "main": "index.js",
+  "scripts": {
+    "test": "mode-sass -w scss/ -o /css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maesterfox/glassmorph.git"
+  },
+  "keywords": [
+    "glassmorphism"
+  ],
+  "author": "David Fox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maesterfox/GLASSMORPH/issues"
+  },
+  "homepage": "https://github.com/maesterfox/GLASSMORPH#readme"
+}

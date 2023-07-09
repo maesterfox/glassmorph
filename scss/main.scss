@@ -1,0 +1,13 @@
+$primary: red;
+$secondary: blue;
+$tertiary: yellow;
+$quatterary: green;
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: $secondary;
+    color: $primary;
+}

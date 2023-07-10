@@ -3,23 +3,13 @@
   "version": "1.0.0",
   "description": "glassmorphism",
   "main": "index.js",
+  "dependencies": {
+    "mode": "^0.3.2",
+    "vanilla-tilt": "^1.8.0"
+  },
   "scripts": {
     "sass": "node-sass -w scss/ -o css/ --recursive"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/maesterfox/glassmorph.git"
-  },
-  "keywords": [
-    "glassmorphism"
-  ],
   "author": "David Fox",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/maesterfox/GLASSMORPH/issues"
-  },
-  "homepage": "https://github.com/maesterfox/GLASSMORPH#readme",
-  "dependencies": {
-    "mode": "^0.3.2"
-  }
+  "license": "MIT"
 }
